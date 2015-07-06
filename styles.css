@@ -1,0 +1,15 @@
+#yes {
+  background-color: rgba(114, 176, 58, 0.7);
+}
+
+#no {
+  background-color: rgba(255, 50, 50, 0.7);
+}
+
+#partial {
+  background-color: rgba(255, 183, 50, 0.7);
+}
+
+.highlight {
+  background-color: grey;
+}
